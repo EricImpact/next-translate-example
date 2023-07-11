@@ -1,0 +1,6 @@
+{
+  "title": "Hello world",
+  "variable-example": "Using a variable {{count}}",
+  "doc": "Hi doc",
+  "example": "This is an example"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Hallo wereld",
+  "variable-example": "Gebruiken een variable {{count}}",
+  "doc": "Hallo doc",
+  "example": "Dit is een example"
+}
